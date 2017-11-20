@@ -1,4 +1,6 @@
 
+baseurl: /
+
 theme: minima
 
 collections:
