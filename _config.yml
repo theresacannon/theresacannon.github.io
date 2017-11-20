@@ -1,0 +1,8 @@
+
+baseurl: "/"
+
+theme: minima
+
+collections:
+        classes:
+                output: true
